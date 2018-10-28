@@ -1,8 +1,8 @@
 
 public class Largest
 {
-	public static void main(String[] args) {
-	    int arr[]={10,20,30,40,50};
+ public static void main(String[] args) {
+	    int arr[]={10,20,30,40,50,81};
 	    int max=arr[0];
 	    for(int i=1;i<arr.length;i++)
 	    {
